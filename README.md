@@ -1,2 +1,2 @@
 # shortest_path_by_LP
-Use linear programming library PuLP to solve the shortest path problems
+Solve the shortest path problems using PuLP, a python library used to model linear programming problems
