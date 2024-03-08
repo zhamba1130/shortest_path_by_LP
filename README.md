@@ -9,7 +9,8 @@ identify the objective function, costs and constraints
 
 ## Constraints
 Any complete path must follow the constraints:
-![image](https://github.com/zhamba1130/shortest_path_by_PuLP/assets/58042279/ae9523ca-37d4-410f-9809-449f462228f7)
+![image]()
+<img src="https://github.com/zhamba1130/shortest_path_by_PuLP/assets/58042279/ae9523ca-37d4-410f-9809-449f462228f7.jpg" width="200" height="100">
 
 For instance, a complete path A->B->E->F
 ![image](https://github.com/zhamba1130/shortest_path_by_PuLP/assets/58042279/21ac3f5d-a1e9-45e8-a6dc-5a87d201b905)
