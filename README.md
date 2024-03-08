@@ -26,7 +26,7 @@ Figure below explains how the path follows the constraints
 ## PuLP
 Tutoral: https://coin-or.github.io/pulp/  
 
-## Find the shortest path between two points on a graph  
+## Results: Find the shortest path between two points on a graph  
 A graph with 250 randomly-generated points  
 <p align="center"><img src="https://github.com/zhamba1130/shortest_path_by_PuLP/assets/58042279/36b5e4b6-9dac-4087-a199-112aa46d3448.jpg" width="400" height="300">  
   
