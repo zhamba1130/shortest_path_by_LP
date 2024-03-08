@@ -4,7 +4,10 @@ Solve the shortest path problem using PuLP, a python library used to model linea
 ## Consider a shortest path problem as a linear programming problem
 In order to solve a shortest path problem by using PuLP, the problem should be transformed into a linear programming problem.  
   
-First, identify the objective function, costs and constraints
+First, identify the objective function, costs and constraints  
+  
+◆ Objective function: the shortest distance  
+◆ Costs: adjacency matrix  
 <p align="center"><img src="https://github.com/zhamba1130/shortest_path_by_PuLP/assets/58042279/facd6655-9742-4d18-98dd-df5f1ed56f8d.jpg" width="800" height="450">
 
 ## Constraints
